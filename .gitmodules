@@ -1,3 +1,4 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/devcdd/submodule.git
+	branch = main
